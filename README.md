@@ -4,9 +4,9 @@
 
 Reusable prompt documents for workflow commands, image prompts, and storyboard templates.
 
-## Library
+## Prompt Categories
 
-### Workflows
+### Workflow Commands
 
 - [50 Core Shortcut Commands (EN)](docs/workflows/50-core-shortcuts.md)
 - [50 個核心快捷指令定義表 (ZH-TW)](docs/workflows/50-core-shortcuts.zh-TW.md)
@@ -15,9 +15,12 @@ Reusable prompt documents for workflow commands, image prompts, and storyboard t
 
 ### Image Prompts
 
-- [Beijing Tiny Planet Prompt (ZH-TW)](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- Cities
+  - [Beijing Tiny Planet Prompt (ZH-TW)](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- Fashion
+  - [低腰時尚攝影 Prompt 模板 (ZH-TW)](prompts/image/fashion/low-rise-fashion-templates.zh-TW.md)
 
-### Storyboards
+### Storyboard Prompts
 
 - [九宮格分鏡 Prompt 模板 (ZH-TW)](prompts/storyboards/nine-grid/9-panel-storyboard-templates.zh-TW.md)
 
@@ -29,9 +32,15 @@ Reusable prompt documents for workflow commands, image prompts, and storyboard t
 
 #### 文件導覽
 
+工作流指令：
 - [50 個核心快捷指令定義表](docs/workflows/50-core-shortcuts.zh-TW.md)
 - [組合指令工作流規範](docs/workflows/combo-workflow.zh-TW.md)
+
+影像 Prompt：
 - [北京 Tiny Planet 影像 Prompt](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- [低腰時尚攝影 Prompt 模板](prompts/image/fashion/low-rise-fashion-templates.zh-TW.md)
+
+分鏡 Prompt：
 - [九宮格分鏡 Prompt 模板](prompts/storyboards/nine-grid/9-panel-storyboard-templates.zh-TW.md)
 
 ## English
@@ -40,9 +49,15 @@ This repository is a reusable prompt library for command workflows, image genera
 
 ### Quick Links
 
+Workflow Commands:
 - [50 Core Shortcut Commands](docs/workflows/50-core-shortcuts.md)
 - [Combo Workflow Rules](docs/workflows/combo-workflow.md)
+
+Image Prompts:
 - [Beijing Tiny Planet Prompt](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- [Low-Rise Fashion Photography Prompt Templates](prompts/image/fashion/low-rise-fashion-templates.zh-TW.md)
+
+Storyboard Prompts:
 - [9-Panel Storyboard Prompt Templates](prompts/storyboards/nine-grid/9-panel-storyboard-templates.zh-TW.md)
 
 ## Tiếng Việt
@@ -51,9 +66,15 @@ Kho này là thư viện prompt có thể tái sử dụng, bao gồm quy tắc 
 
 ### Liên kết nhanh
 
+Lệnh quy trình:
 - [50 Core Shortcut Commands](docs/workflows/50-core-shortcuts.md)
 - [Combo Workflow Rules](docs/workflows/combo-workflow.md)
+
+Prompt hình ảnh:
 - [Beijing Tiny Planet Prompt](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- [Low-Rise Fashion Photography Prompt Templates](prompts/image/fashion/low-rise-fashion-templates.zh-TW.md)
+
+Prompt storyboard:
 - [9-Panel Storyboard Prompt Templates](prompts/storyboards/nine-grid/9-panel-storyboard-templates.zh-TW.md)
 
 ## 한국어
@@ -62,9 +83,15 @@ Kho này là thư viện prompt có thể tái sử dụng, bao gồm quy tắc 
 
 ### 바로가기
 
+워크플로 명령:
 - [50 Core Shortcut Commands](docs/workflows/50-core-shortcuts.md)
 - [Combo Workflow Rules](docs/workflows/combo-workflow.md)
+
+이미지 프롬프트:
 - [Beijing Tiny Planet Prompt](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- [Low-Rise Fashion Photography Prompt Templates](prompts/image/fashion/low-rise-fashion-templates.zh-TW.md)
+
+스토리보드 프롬프트:
 - [9-Panel Storyboard Prompt Templates](prompts/storyboards/nine-grid/9-panel-storyboard-templates.zh-TW.md)
 
 ## 日本語
@@ -73,7 +100,13 @@ Kho này là thư viện prompt có thể tái sử dụng, bao gồm quy tắc 
 
 ### クイックリンク
 
+ワークフローコマンド:
 - [50 Core Shortcut Commands](docs/workflows/50-core-shortcuts.md)
 - [Combo Workflow Rules](docs/workflows/combo-workflow.md)
+
+画像プロンプト:
 - [Beijing Tiny Planet Prompt](prompts/image/cities/beijing-tiny-planet.zh-TW.md)
+- [Low-Rise Fashion Photography Prompt Templates](prompts/image/fashion/low-rise-fashion-templates.zh-TW.md)
+
+ストーリーボードプロンプト:
 - [9-Panel Storyboard Prompt Templates](prompts/storyboards/nine-grid/9-panel-storyboard-templates.zh-TW.md)
